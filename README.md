@@ -1,2 +1,4 @@
-# MIprimerRepositorio
-Mi primera practica de repositorio  GITHUB
+# Mi primer Repositorio
+SINCHE VALER ALEXANDER
+APSTI
+
